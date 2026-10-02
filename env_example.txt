@@ -1,0 +1,23 @@
+origins="__"
+
+supports_credentials="__"
+
+SECRET_KEY="__"
+SQLALCHEMY_DATABASE_URI="__"
+SQLALCHEMY_TRACK_MODIFICATIONS="__"
+CACHE_TYPE="__"
+CACHE_REDIS_HOST="__"
+CACHE_REDIS_PORT="__"
+CACHE_DEFAULT_TIMEOUT="__"
+
+
+# email backend job
+
+
+EMAIL_ADDRESS = "__"
+EMAIL_PASSWORD = "__"
+
+
+# celery_config part
+backend = "__"
+broker = "__"
